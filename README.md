@@ -10,7 +10,7 @@ I like to learn new things and I'm very passionate about technology.
           
  
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacquelineMacedo&theme=tokyonight&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacquelineMacedo&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquelineMacedo&layout=compact)](https://github.com/JacquelineMacedo/github-readme-stats)
 
 
 
