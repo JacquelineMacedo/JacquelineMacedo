@@ -37,8 +37,8 @@ Always building. Always improving. Always thinking in systems.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacquelineMacedo&theme=buefy&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquelineMacedo&layout=compact)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JacquelineMacedo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JacquelineMacedo&layout=compact&theme=tokyonight)
 
 ---
 
