@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D1B4E&height=200&section=header&text=Jacqueline%20Macedo&fontSize=52&fontColor=F5C842&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20Java%20%26%20Kotlin%20Specialist&descColor=C4B5FD&descAlignY=58&descSize=18"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=2000&color=F5C842&center=true&vCenter=true&width=700&lines=Jacqueline+Macedo" alt="Jacqueline Macedo" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer+%7C+Java+%26+Kotlin;8+years+building+systems+that+scale.;Financial+market.+High+stakes.+No+excuses." alt="subtitle" />
 
 </div>
 
@@ -23,7 +25,7 @@
 
 ## 🧠 About
 
-Senior Backend Engineer with **8 years of experience** designing and operating scalable systems in the **financial market**  one of the most demanding environments for reliability, performance, and correctness.
+Senior Backend Engineer with **8 years of experience** designing and operating scalable systems in the **financial market** one of the most demanding environments for reliability, performance, and correctness.
 
 I specialize in **Java and Kotlin**, with deep experience in microservices architecture, event-driven systems, and high-throughput APIs. I've contributed not just with code, but with **architectural decisions, technical strategy, and long-term system sustainability**.
 
@@ -124,6 +126,6 @@ val jacque = Engineer(
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D1B4E&height=100&section=footer&fontColor=F5C842"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=9999&color=C4B5FD&center=true&vCenter=true&width=500&lines=Always+building.+Always+improving.+Always+thinking+in+systems." alt="footer" />
 
 </div>
