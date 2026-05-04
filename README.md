@@ -14,6 +14,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacqueline%20Macedo-2D1B4E?style=for-the-badge&logo=linkedin&logoColor=F5C842)](https://www.linkedin.com/in/jacqueline-macedo-4b4789150/)
 [![Instagram](https://img.shields.io/badge/Instagram-@jacque__tech-2D1B4E?style=for-the-badge&logo=instagram&logoColor=F5C842)](https://instagram.com/jacque_tech)
+[![TikTok](https://img.shields.io/badge/TikTok-@jacque__tech-2D1B4E?style=for-the-badge&logo=tiktok&logoColor=F5C842)](https://tiktok.com/@jacque_tech)
+[![YouTube](https://img.shields.io/badge/YouTube-@jacque__tech-2D1B4E?style=for-the-badge&logo=youtube&logoColor=F5C842)](https://youtube.com/@jacque_tech)
 
 </div>
 
@@ -21,11 +23,11 @@
 
 ## 🧠 About
 
-Senior Backend Engineer with **8 years of experience** designing and operating scalable systems in the **financial market** — one of the most demanding environments for reliability, performance, and correctness.
+Senior Backend Engineer with **8 years of experience** designing and operating scalable systems in the **financial market**  one of the most demanding environments for reliability, performance, and correctness.
 
 I specialize in **Java and Kotlin**, with deep experience in microservices architecture, event-driven systems, and high-throughput APIs. I've contributed not just with code, but with **architectural decisions, technical strategy, and long-term system sustainability**.
 
-Currently expanding into **Strategic Engineering Direction** — where technical execution meets business impact.
+Currently expanding into **Strategic Engineering Direction** where technical execution meets business impact.
 
 > *Great engineering is not just about writing code. It's about designing systems that evolve without breaking.*
 
@@ -115,7 +117,7 @@ val jacque = Engineer(
 - 🏦 &nbsp; Tech Lead in the financial sector — high-throughput, mission-critical systems
 - ☕ &nbsp; Deep diving into **Java/Kotlin** ecosystem and software architecture patterns
 - 🤖 &nbsp; Exploring **LangChain4j** and AI-augmented backends
-- 📲 &nbsp; Creating backend engineering content at **[@jacque_tech](https://instagram.com/jacque_tech)**
+- 📲 &nbsp; Creating backend engineering content at **[@jacque_tech](https://instagram.com/jacque_tech)** — Instagram, TikTok & YouTube
 - 📚 &nbsp; Always learning. Always building.
 
 ---
